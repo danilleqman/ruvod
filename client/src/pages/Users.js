@@ -20,6 +20,9 @@ export const Users = () => {
       <Grid item xs={12}>
         <Table setId={setId} />
       </Grid>
+      <Grid item xs={12}>
+        to view additional information, click on the row
+      </Grid>
     </>
   );
 
